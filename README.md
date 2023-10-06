@@ -1,2 +1,2 @@
 Arquivo com explicações do repositório
-sobre diversas coisas
+sobre diversas coisas e coisas
